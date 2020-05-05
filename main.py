@@ -98,6 +98,9 @@ while True:
 	else:
 		game_on = False
 
+	if game_on == False:
+		break
+
 
 	while game_on:
 
